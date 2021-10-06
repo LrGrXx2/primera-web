@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://localhost/primera-web'
 languageCode = 'es-es'
 title = 'Primera web Laura Garcia'
 theme = 'min_night'
