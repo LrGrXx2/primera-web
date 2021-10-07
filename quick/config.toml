@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://lrgrxx2.github.io/primera-web/'
 languageCode = 'es-es'
 title = 'Primera web'
 [params]
